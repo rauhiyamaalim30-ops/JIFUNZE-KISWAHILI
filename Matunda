@@ -1,0 +1,26 @@
+<h1>Matunda kwa Kiswahili</h1>
+
+<div>
+  <h2>Embe</h2>
+  <img src="https://source.unsplash.com/300x200/?mango" alt="Embe">
+</div>
+
+<div>
+  <h2>Ndizi</h2>
+  <img src="https://source.unsplash.com/300x200/?banana" alt="Ndizi">
+</div>
+
+<div>
+  <h2>Nanasi</h2>
+  <img src="https://source.unsplash.com/300x200/?pineapple" alt="Nanasi">
+</div>
+
+<div>
+  <h2>Chungwa</h2>
+  <img src="https://source.unsplash.com/300x200/?orange" alt="Chungwa">
+</div>
+
+<div>
+  <h2>Tikiti Maji</h2>
+  <img src="https://source.unsplash.com/300x200/?watermelon" alt="Tikiti Maji">
+</div>
